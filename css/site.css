@@ -1,0 +1,29 @@
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    line-height: 1.4;
+    font-family: 'Myriad Pro', Myriad, sans-serif;
+    color: rgb(87, 83, 74);
+    background-image: url("images/navy_blue.png");
+}
+
+#content {
+	font-size: 125%;
+	background-image: url("images/bgnoise.png");
+	margin: 150px 150px 250px 150px;
+	padding: 50px 100px 100px 100px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;	
+}
+
+h1 {
+	text-align: center;
+	font-size: 4em;
+	color:#313030
+}
